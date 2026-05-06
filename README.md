@@ -4,15 +4,15 @@
 
 <br clear="both">
 
-<h3 align="center">⚡Ingeniero en sistemas en proceso</h3>
+<h3 align="center">Ingeniero en sistemas en proceso</h3>
 
 ###
 
-<p align="left">🔭 - Estudio Ingeniería en Sistemas<br>📚 - Estoy aprendiendo Desarrollo web</p>
+<p align="left"> Estudio Ingeniería en Sistemas<br> Estoy aprendiendo Desarrollo web</p>
 
 ###
 
-<h3 align="left">🛠 Lenguaje y herramientas</h3>
+<h3 align="left">Lenguaje y herramientas</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<h3 align="left">📍 Redes Sociales</h3>
+<h3 align="left">Redes Sociales</h3>
 
 ###
 
