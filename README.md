@@ -36,10 +36,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Alejandro11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=es&hide_border=true&order=1&custom_title=Estadisticas" height="200" alt="stats graph"  />
-</div>
-
 ###
 
 <br clear="both">
